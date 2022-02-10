@@ -34,8 +34,11 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+https://www.geeksforgeeks.org/how-to-create-footer-to-stay-at-the-bottom-of-a-web-page/#:~:text=To%20make%20a%20footer%20fixed,you%20could%20use%20position%3A%20fixed.&text=%3C%20div%20id%20%3D%20%22footer%22,the%20bottom%20of%20the%20page.
+
+https://youtu.be/HRd4pJwmy_0
+
+- Live Site URL: [Add live site URL here](https://qr-code-bbm-test.netlify.app/#)
 
 ## My process
 
