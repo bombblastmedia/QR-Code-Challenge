@@ -1,5 +1,3 @@
-*,
-*,
 *:after,
 *:before {
     -webkit-box-sizing: border-box;
@@ -17,10 +15,10 @@ body {
     padding: 0;
     height: 100%;
     background-color: #D5E1EF;
-    font-family: 'Josefin', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Outfit', 'Josefin', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #000000;
     font-size: 100%;
-    line-height: 1.5;
+    line-height: 1.3;
     overflow-x: hidden;
     display: flex;
     align-items: center;
@@ -44,8 +42,26 @@ img {
     height: 283px;
     left: 47px;
     top: 102px;
-    border-radius: 25px;
-    margin-top: 15px;
+    border-radius: 8px;
+    margin-top: 20px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+}
+
+.main-text {
+    padding: 0px 28px 0px 28px;
+}
+
+h3 {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+h5 {
+    font-size: 15px;
+    font-weight: 400;
 }
 
 .attribution {
@@ -55,4 +71,12 @@ img {
 
 .attribution a {
     color: hsl(228, 45%, 48%);
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+    /* Height of the footer */
 }
