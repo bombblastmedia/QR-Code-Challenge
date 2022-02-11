@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](.\2022-02-11-21-32-qr-code-bbm-test.netlify.app.png)
+![](https://github.com/bombblastmedia/QR-Code-Challenge/blob/main/images/2022-02-11-21-32-qr-code-bbm-test.netlify.app.png)
 
 ### Links
 
