@@ -22,6 +22,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![](https://github.com/bombblastmedia/QR-Code-Challenge/blob/main/images/2022-02-11-21-32-qr-code-bbm-test.netlify.app.png)
 
+Updated version, with correct font and altered HTML.
+
+![](https://github.com/bombblastmedia/QR-Code-Challenge/blob/main/images/2022-02-15-21-25-qr-code-bbm-test.netlify.app.png)
+
 ### Links
 
 https://www.geeksforgeeks.org/how-to-create-footer-to-stay-at-the-bottom-of-a-web-page/#:~:text=To%20make%20a%20footer%20fixed,you%20could%20use%20position%3A%20fixed.&text=%3C%20div%20id%20%3D%20%22footer%22,the%20bottom%20of%20the%20page.
