@@ -26,7 +26,7 @@ Updated version, with correct font and altered HTML.
 
 ![](https://github.com/bombblastmedia/QR-Code-Challenge/blob/main/images/2022-02-15-21-25-qr-code-bbm-test.netlify.app.png)
 
-Updated version with H" colour change.
+Updated version with H2 colour change.
 
 ![](https://github.com/bombblastmedia/QR-Code-Challenge/blob/main/images/2022-02-15-21-46-qr-code-bbm-test.netlify.app.png)
 
